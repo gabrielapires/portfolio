@@ -1,0 +1,41 @@
+/* Estilo padrão para todas as telas*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair&display=swap');
+
+body{
+    font-family: 'Playfair', serif;
+    font-weight: 200;
+    font-size: 1rem;
+}
+
+.banner{
+    height: 50vh;
+    background: url('../img/fundo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #9d6fd1;
+}
+/* Estilo para telas com resolução até 576px*/
+@media (max-width: 575.98px) {
+
+}
+
+/* Estilo para telas com resolução até 768px */
+@media (max-width: 767.98px) {
+
+}
+
+/* Estilo para telas com resolução até 996px*/
+@media (max-width: 991.98px) {
+
+}
+
+/*  Estilo para todas as telas com resolução até 1.200px*/
+@media (max-width: 1199.98px) {
+
+}
+
+/* Estilo para todas as telas com resolução até 1.400px*/
+@media (max-width: 1399.98px) {
+
+}
