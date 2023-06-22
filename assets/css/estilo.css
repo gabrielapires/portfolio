@@ -9,11 +9,11 @@ body{
 
 .banner{
     height: 50vh;
-    background: url('../img/fundo.jpg');
+    background: url('../img/fundo4.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: #9d6fd1;
+    color: #6f38ad;
 }
 /* Estilo para telas com resolução até 576px*/
 @media (max-width: 575.98px) {
@@ -38,4 +38,15 @@ body{
 /* Estilo para todas as telas com resolução até 1.400px*/
 @media (max-width: 1399.98px) {
 
+}
+
+.perfil{
+    border-radius: 50%; /* borda da foto*/
+
+    height: 55vh;
+    margin-left: 10%;
+}
+
+.meunome{
+    margin-top: 25%;
 }
