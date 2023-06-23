@@ -4,7 +4,7 @@
 body{
     font-family: 'Playfair', serif;
     font-weight: 200;
-    font-size: 1rem;
+    font-size: 1em
 }
 
 .banner{
@@ -43,10 +43,23 @@ body{
 .perfil{
     border-radius: 50%; /* borda da foto*/
 
-    height: 55vh;
+    height: 45vh;
     margin-left: 10%;
 }
 
 .meunome{
     margin-top: 25%;
+}
+
+.hab{
+    color: #6f38ad;
+    font-size: 30px;
+    margin-left: 3%;
+    
+}
+
+.escrita{
+    font-size: 30px;
+    color: #6f38ad;
+    margin-left: 2%;
 }
